@@ -1,7 +1,5 @@
 {
-  "name": "circleci-demo",
-  "version": "1.0.0",
   "scripts":{
-    "test": "node index.js"
+    "test": "node notfound.js"
   }
 }
