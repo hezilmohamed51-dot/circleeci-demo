@@ -1,5 +1,5 @@
 {
   "scripts":{
-    "test": "node notfound.js"
+    "test": "node index.js"
   }
 }
